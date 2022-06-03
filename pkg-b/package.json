@@ -1,0 +1,7 @@
+{
+  "name": "@my-repo/pkg-b",
+  "version": "1.0.0",
+  "dependencies": {
+    "@my-repo/pkg-a": "workspace:*"
+  }
+}
